@@ -1,3 +1,3 @@
 # Python
 
-mathay khao 
+Hi Python
